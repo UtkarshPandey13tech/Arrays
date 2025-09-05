@@ -1,6 +1,6 @@
 import java.util.*;
 class sortdesc {
-    // Q1: Sort in Descending Order
+    // Q1- Sort in Descending Order
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("enter the size of array:");
